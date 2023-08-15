@@ -1,0 +1,308 @@
+td, p, body {
+font-size:11px; font-family:verdana,arial,helvetica; color:#000000
+}
+.title {
+	COLOR: #003399; FONT-WEIGHT: bold
+}
+.subtext {
+	COLOR: #003399; LINE-HEIGHT: 150%
+}
+.footer {
+    color:#999999
+}
+A:active {
+	COLOR: #6699CC; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #CC0033;
+	TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #CC0033; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #6699CC; TEXT-DECORATION: none
+}
+.linkinactive {
+color:#666666
+}
+A.menu1:link{
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menu1:active {
+	COLOR: #6699CC; TEXT-DECORATION: underline
+}
+A.menu1:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menu1:hover {
+	COLOR: #CCCCCC; TEXT-DECORATION: underline
+}
+A.menu2:link{
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menu2:active {
+	COLOR: Red;
+	TEXT-DECORATION: underline
+}
+A.menu2:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.menu2:hover {
+	COLOR: #CC0033; TEXT-DECORATION: underline
+}
+hr {COLOR: #CCCCCC; HEIGHT: 1pt
+}
+.id_blue {
+	COLOR: #993333; FONT-WEIGHT: bold
+	}
+.id_orange {
+	COLOR: 	#666666; FONT-WEIGHT: bold
+	}
+.form {
+background-color: #F2F5FA;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 11px;
+color: #000000;
+}
+.formbutton {
+background-color: #336699;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 11px;
+color: #ffffff
+}
+
+
+
+/*	Style Sheet for WA-RBS */
+
+
+/* Default Type */
+A {font-family: Verdana, Geneva, Arial, sans-serif; color:#333399;}
+BODY, TR, TD, INPUT, SELECT, TEXTAREA {color: #000000; font-size: 12px; font-family: Verdana}
+
+/*Default Font*/
+.default {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 11px; font-weight: normal}
+
+
+/*pt6 type*/
+.pt6-black {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 9.4px; font-weight : normal }
+.pt6-grey {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 9.4px; font-weight: normal}
+.pt6-red {color : #FF0000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 9.4px; font-weight: normal}
+.pt6-olive {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 9.4px; font-weight: normal}
+.pt6-maroon {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 9.4px; font-weight: normal}
+.pt6-medblue { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 9.4px; font-weight: normal; color: #636363}
+
+
+.pt6-grey-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 9.4px; font-weight: bold}
+.pt6-black-bold {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 9.4px; font-weight: bold}
+.pt6-red-bold {color : #FF0000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 9.4px; font-weight: bold}
+.pt6-olive-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 9.4px; font-weight: bold}
+.pt6-maroon-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 9.4px; font-weight: bold}
+.pt6-medblue-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 9.4px; font-weight: bold; color: #636363}
+
+
+/*pt8 type*/
+.pt8-black {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 10px; font-weight : normal }
+.pt8-grey {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 10px; font-weight: normal}
+.pt8-red {color : #FF0000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 10px; font-weight: normal}
+.pt8-olive {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 10px; font-weight: normal}
+.pt8-maroon {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 10px; font-weight: normal}
+.pt8-medblue { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 10px; font-weight: normal; color: #636363}
+.pt8-white { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 10px; font-weight: normal; color: #FFFFFF}
+
+
+.pt8-grey-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 10px; font-weight: bold}
+.pt8-black-bold {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 10px; font-weight: bold}
+.pt8-red-bold {color : #FF0000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 10px; font-weight: bold}
+.pt8-olive-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 10px; font-weight: bold}
+.pt8-maroon-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 10px; font-weight: bold}
+.pt8-medblue-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 10px; font-weight: bold; color: #636363}
+.pt8-white-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular;	font-size: 10px; font-weight: bold;	color: #FFFFFF;}
+
+
+/*9pt type*/
+.pt9-black {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 11px; font-weight : normal }
+.pt9-grey {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 11px; font-weight: normal}
+.pt9-red {color : #FF0000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 11px; font-weight: normal}
+.pt9-olive {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 11px; font-weight: normal}
+.pt9-maroon {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 11px; font-weight: normal}
+.pt9-medblue { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 11px; font-weight: normal; color: #636363}
+
+
+.pt9-grey-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 11px; font-weight: bold}
+.pt9-black-bold {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 11px; font-weight: bold}
+.pt9-red-bold {color : #FF0000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 11px; font-weight: bold}
+.pt9-olive-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 11px; font-weight: bold}
+.pt9-maroon-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 11px; font-weight: bold}
+.pt9-medblue-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 11px; font-weight: bold; color: #636363}
+
+
+/*10pt type*/
+.pt10 { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: normal;}
+.pt10-grey { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: normal; color: #424242}
+.pt10-maroon { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: normal; color: #424242}
+.pt10-black { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: normal; color: #000000 }
+.pt10-red { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: normal; color: #FF0000 }
+.pt10-white { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: normal; color: #FFFFFF }
+.pt10-brown { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: normal; color: #636363}
+.pt10-olive { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: normal; color: #424242}
+.pt10-medblue {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular;
+	font-size: 12px;
+	font-weight: normal;
+	color: #636363;
+}
+
+
+.pt10-grey-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: bold; color: #424242}
+.pt10-maroon-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: bold; color: #424242}
+.pt10-black-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: bold; color: #000000 }
+.pt10-red-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: bold; color: #FF0000 }
+.pt10-white-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: bold; color: #FFFFFF }
+.pt10-lav-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: bold; color: #636363}
+
+.pt10-olive-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: bold; color: #424242}
+.pt10-medblue-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: bold; color: #636363}
+.pt10-darkblue-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: bold; color: #424242}
+
+/*11pt type*/
+.pt11-black {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 13px; font-weight : normal }
+.pt11-grey {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 13px; font-weight: normal}
+.pt11-red {color : #FF0000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 13px; font-weight: normal}
+.pt11-olive {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 13px; font-weight: normal}
+.pt11-maroon {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 13px; font-weight: normal}
+.pt11-medblue { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 13px; font-weight: normal; color: #636363}
+.pt11-darkblue { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 13px; font-weight: normal; color: #424242}
+
+.pt11-grey-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 13px; font-weight: bold}
+.pt11-black-bold {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 13px; font-weight: bold}
+.pt11-red-bold {color : #FF0000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 13px; font-weight: bold}
+.pt11-olive-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 13px; font-weight: bold}
+.pt11-maroon-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 13px; font-weight: bold}
+.pt11-medblue-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 13px; font-weight: bold; color: #636363}
+.pt11-darkblue-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 13px; font-weight: bold; color: #424242}
+
+
+/*12pt type*/
+.pt12-black {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 14px; font-weight : normal }
+.pt12-grey {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 14px; font-weight: normal}
+.pt12-red {color : #FF0000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 14px; font-weight: normal}
+.pt12-olive {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 14px; font-weight: normal}
+.pt12-maroon {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 14px; font-weight: normal}
+.pt12-medblue { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 14px; font-weight: normal; color: #636363}
+
+
+.pt12-grey-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 14px; font-weight: bold}
+.pt12-black-bold {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 14px; font-weight: bold}
+.pt12-red-bold {color : #FF0000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 14px; font-weight: bold}
+.pt12-olive-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 14px; font-weight: bold}
+.pt12-maroon-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 14px; font-weight: bold}
+.pt12-medblue-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 14px; font-weight: bold; color: #636363}
+.pt12-white-bold {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+
+
+
+/*pt16 type*/
+.pt16-black {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 20px; font-weight : normal }
+.pt16-grey {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 20px; font-weight: normal}
+.pt16-red {color : #FF0000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 20px; font-weight: normal}
+.pt16-olive {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 20px; font-weight: normal}
+.pt16-maroon {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 20px; font-weight: normal}
+.pt16-medblue { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 20px; font-weight: normal; color: #636363}
+.pt16-darkblue { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 20px; font-weight: normal; color: #424242}
+
+.pt16-grey-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 20px; font-weight: bold}
+.pt16-black-bold {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 20px; font-weight: bold}
+.pt16-red-bold {color : #FF0000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 20px; font-weight: bold}
+.pt16-olive-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 20px; font-weight: bold}
+.pt16-maroon-bold {color : #424242; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 20px; font-weight: bold}
+.pt16-medblue-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 20px; font-weight: bold; color: #636363}
+.pt16-white-bold {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular;
+	font-size: 20px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+/****************** New Styles ************************/
+
+.text-field { margin: 0px;padding: 0px;font-size : 11px}
+
+/* Header */
+.header_nav {background-color: #b2cce5}
+
+/* Footer */
+.footer-content{ background-color: #a3c2e0}
+.footer-text {color: #336699; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 9px; background-color: #a3c2e0}
+
+/* Left Navigation */
+.nav-content {background-color: #B2cce5; color: #336699; font-size: 10px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular}
+.nav-login {color: #666666; font-size: 10px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular}
+.nav-highlight {font-size: 10px; font-weight: bold}
+.nav-link {color: #336699; text-decoration: underline}
+.nav-link-top_on {color: #336699; font-size: 12px; font-weight: bold; font-family: Verdana; text-decoration: none}
+.nav-link-top_off {color: #336699; font-size: 12px; font-weight: bold; font-family: Verdana; text-decoration: underline}
+.nav-link-top_true {color: #336699; font-size: 12px; font-weight: bold; font-family: Verdana; text-decoration: none}
+.nav-link-top_false {color: #336699; font-size: 12px; font-weight: bold; font-family: Verdana; text-decoration: underline}
+.nav-link-sub_true {font-size: 11px; font-family: Verdana; color: #336699; text-decoration: none; font-weight: bold}
+.nav-link-sub_false {color: #336699; font-size: 11px; font-family: Verdana; text-decoration: underline}
+.nav-acctSummary-header {color: #BFBFBF; font-size: 11px; font-family: Verdana}
+.nav-acctSummary-text {color : #000000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 10px; font-weight : normal }
+.nav-acctSummary-alert {color: #FF0000;}
+
+/*  Main Content Area */
+.main-content {background-color: #ffffff}
+.main-content-title {font-size: 14px; font-weight: bold; color: #424242}
+.main-content-header {font-size: 20px; font-weight: bold; color: #424242}
+.main-content-subtitle {font-size: 14px; font-weight: bold; color: #424242}
+.main-content-subtitle2 {font-size: 16px; font-weight: bold; color: #424242}
+.main-content-sectionLink { FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #424242; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular}
+
+    /* Error Font */
+    .error {color : #FF0000; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size : 11px; font-weight: normal}
+
+	/* Grey Fonts */
+	.pageheader { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 20px; font-weight: bold; color: #424242}
+	.bigtext {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 20px; font-weight: normal; color: #424242}
+	.med-big-text-bold { FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #424242; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular }
+	.med-big-text { FONT-WEIGHT: normal; FONT-SIZE: 17px; COLOR: #424242; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular }
+	.med-text-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 14px; font-weight: bold; color: #424242;}
+	.med-text { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 14px; font-weight: normal; color: #424242;}
+	.text-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: bold; color: #000000 }
+	.text { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: normal; color: #000000}
+	.sm-text-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 11px; font-weight: bold; color: #424242}
+	.sm-text { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 11px; font-weight: normal; color: #424242}
+	.xsm-text-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 10px; font-weight: bold; color: #636363;}
+	.xsm-text { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 10px; font-weight: normal; color: #636363;}
+	.xxsm-text-bold { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 9.4px; font-weight: bold; color: #636363;}
+	.xxsm-text { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 9.4px; font-weight: normal; color: #636363;}
+
+	/* Black Fonts */
+	.pageheader-dark { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 20px; font-weight: bold; color: #000000}
+	.bigtext-dark {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 20px; font-weight: normal; color: #000000}
+	.med-big-text-bold-dark { FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #000000; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular }
+	.med-big-text-dark { FONT-WEIGHT: normal; FONT-SIZE: 17px; COLOR: #000000; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular }
+	.med-text-bold-dark { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 14px; font-weight: bold; color: #000000;}
+	.med-text-dark { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 14px; font-weight: normal; color: #000000;}
+	.text-bold-dark { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: bold; color: #000000 }
+	.text-dark { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 12px; font-weight: normal; color: #000000}
+	.sm-text-bold-dark { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 11px; font-weight: bold; color: #000000}
+	.sm-text-dark { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 11px; font-weight: normal; color: #000000}
+	.xsm-text-bold-dark { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 10px; font-weight: bold; color: #000000;}
+	.xsm-text-dark { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 10px; font-weight: normal; color: #000000;}
+	.xxsm-text-bold-dark { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 9.4px; font-weight: bold; color: #000000;}
+	.xxsm-text-dark { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 9.4px; font-weight: normal; color: #000000;}
+
+/*  Table display */
+.tablebackground {background-color: #E8F0F7}
+.row {background-color: #FFFFFF; height : 20px ;font-family: Verdana, Geneva, Arial, Helvetica, sans-serif, Swiss, SunSans-Regular; font-size: 11px; font-weight: normal; color: #000000;}
+.altrow {background-color: #DFEBF4; height : 15px;}
+.tableoutline {background-color: #9BBDDE}
+
