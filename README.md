@@ -1,11 +1,11 @@
 # Piggy
 - Old site for PiggyBack Plus.
 
-- Originally done in basic HTML/Javascript and not at all mobile-friendly at all.
+- Originally done in basic HTML/Javascript and not at all mobile-friendly at all (as you can see below)
 
-- You can look and interact with the new site at www.piggy.com.
+- You can look and interact with the newly made site at www.piggy.com.
   
-- This is what this site looks like:
+- This is what this older site looked like when it was active:
 
 --- Home Page ---
   <img width="1439" alt="image" src="https://github.com/ryanmaki18/Piggy_Old/assets/130192949/5996b3ab-4f73-4b90-9c84-1cf20ef913e7">
