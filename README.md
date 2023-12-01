@@ -1,9 +1,9 @@
 # Piggy
-- Old site for PiggyBack Plus.
+- Old site for PiggyBack Plus Inc..
 
-- Originally done in basic HTML/Javascript and not at all mobile-friendly at all (as you can see below)
+- Originally done in basic HTML/Javascript and not at all mobile-friendly at all (as you can see below).
 
-- You can look and interact with the newly made site at www.piggy.com.
+- You can look at/interact with the newly made site at www.piggy.com (made in React/Node).
   
 - This is what this older site looked like when it was active:
 
